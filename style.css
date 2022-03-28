@@ -1,0 +1,15 @@
+#selector {
+    color: blueviolet;
+    border: 1px solid rgba(red, green, blue, alpha);
+    font-size: 14px;
+}
+
+.btn {
+    background: rgb(30 , 70 , 120);
+    border: 1px solid #1E4678;
+    padding: 5px 6px;
+}
+
+.btn.btn--red {
+    background: hsl(0, .80%, .50%);
+}
